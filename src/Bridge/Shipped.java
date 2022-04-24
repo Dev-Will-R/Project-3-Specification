@@ -1,5 +1,6 @@
 package Bridge;
 
+// Concrete Implementor A of the Bridge Pattern
 public class Shipped implements  CardStore {
 
     @Override

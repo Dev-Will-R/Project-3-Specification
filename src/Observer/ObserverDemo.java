@@ -2,6 +2,7 @@ package Observer;
 
 import java.util.Random;
 
+// Main program to allow for a demo of the Observer Pattern
 public class ObserverDemo {
     public static void main(String[] args){
         Subject subject = new Subject();

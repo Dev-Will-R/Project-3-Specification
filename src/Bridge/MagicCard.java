@@ -1,5 +1,7 @@
 package Bridge;
 
+
+// Refined abstraction B of the Bridge Pattern
 public class MagicCard extends TradingCard {
 
     public MagicCard(CardStore store1, CardStore store2) {

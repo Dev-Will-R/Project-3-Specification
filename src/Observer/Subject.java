@@ -3,6 +3,7 @@ package Observer;
 import java.util.ArrayList;
 import java.util.List;
 
+// Subject for the Observer Pattern
 public class Subject {
 
     public List<Observer> observers = new ArrayList<>();

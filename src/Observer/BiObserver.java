@@ -1,5 +1,6 @@
 package Observer;
 
+// Concrete observer A of the Observer Pattern
 public class BiObserver extends Observer{
 
     public BiObserver(Subject subject){

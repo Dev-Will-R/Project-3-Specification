@@ -1,5 +1,6 @@
 package Bridge;
 
+// Abstraction of the Bridge Pattern
 abstract class TradingCard {
     protected CardStore store1;
     protected CardStore store2;

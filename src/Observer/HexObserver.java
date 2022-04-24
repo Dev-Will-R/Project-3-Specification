@@ -1,5 +1,6 @@
 package Observer;
 
+// Concrete observer C of the Observer Pattern
 public class HexObserver extends Observer{
 
     public HexObserver(Subject subject){
