@@ -1,5 +1,6 @@
 package Visitor;
 
+// Object Structure of the Visitor Pattern
 public class Guitar implements GuitarPart {
 
     GuitarPart[] parts;

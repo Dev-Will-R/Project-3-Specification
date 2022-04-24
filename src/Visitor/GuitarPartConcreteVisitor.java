@@ -1,5 +1,6 @@
 package Visitor;
 
+// Concrete Visitor of the Visitor Pattern
 public class GuitarPartConcreteVisitor implements GuitarPartVisitor {
 
     @Override
