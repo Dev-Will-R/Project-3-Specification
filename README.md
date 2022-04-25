@@ -5,7 +5,7 @@ Simple implementations of the Bridge, Observer, and Visitor design patterns.
 
 Made for LUC COMP 373 Project 3
 
-##Pattern Descriptions
+## Pattern Descriptions
 
 Bridge pattern
 	Using the bridge pattern allowed the abstraction and implementation to be separated. This means that, since they are functioning independently, they can both vary and be changed independently, allowing for better separation of concerns and independence. 
